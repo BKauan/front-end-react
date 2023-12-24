@@ -1,0 +1,19 @@
+body {
+    padding-bottom: 500px;
+    background-color: #202020;
+}
+
+#box-model {
+    margin: 20px;
+    padding: 15px 25px;
+    border: 5px solid rgb(0, 132, 255);
+    border-radius: 10px;
+    width: 200px;
+    height: 80px;
+}
+
+.box-model-h2 {
+    color: #fff;
+    background-color: #845;
+    outline: 5px dotted rgb(233, 69, 107);
+}
